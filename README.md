@@ -19,4 +19,6 @@ The users banned by the extension can be seen here: https://cyber-ally.herokuapp
 
 nlp_test.py contains the sentiment analysis implementation using machine learning.
 
+##OUR WEB EXTENSION CURRENTLY RUNS ON YOU TUBE, FACEBOOK, INSTAGRAM AND TWITTER.
+
   
