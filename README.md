@@ -3,9 +3,13 @@ homehack-general-submissions-f-society created by GitHub Classroom
 
 ## Team Name - F-Society
 Members : 
+
 Nikhil Kumar Gautam
+
 Sahil Nare
-Overview
+
+# Overview
+
 In today’s world, everything is online and a large amount of information is being shared/posted. Many instances are present where a particular person is targeted/harmed due to Cyberbullying. Cyberbullying involves posting, sharing wrong, private, negative, harmful information about the victim. 
 We developed a Web Extension which works on major Social Medias like Facebook, YouTube, Instagram, Twitter, etc. Our Extension scraps all the comments and does sentiment analysis on comments. If a comment is found negative then it is taken out from the feed of the user automatically (Sarcastic comments are not taken out). We also scrape out the unique ID of malicious users. Then the malicious user information will be stored in a blockchain database so no one can tamper the data. Then the report can be sent to the concerned authority.
 We also integrated a website for reporting Non-Consensual Pornography (Revenge Porn). It helps the user to take correct steps and how to remove unwanted private pics/videos.
