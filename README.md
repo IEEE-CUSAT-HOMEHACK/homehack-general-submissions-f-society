@@ -21,5 +21,3 @@ nlp_test.py contains the sentiment analysis implementation using machine learnin
 
 ## OUR WEB EXTENSION CURRENTLY RUNS ON YOUTUBE, FACEBOOK AND TWITTER.
 ## USE FIREFOX WEB BROWSER.
-
-### Video demo: https://drive.google.com/drive/folders/1pqBmvn0JxBEneUidXkTN9SFSVtKyOFcz?usp=sharing
